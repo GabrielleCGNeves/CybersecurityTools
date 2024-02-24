@@ -9,7 +9,7 @@
 
 ---
 
-> Usando Nmap para escanear porta e a biblioteca X para criptografar textos
+> Usando as bibliotecas `psutil` e `socket` para escanear portas de abertas de sites e da máquina local e a biblioteca `pycryptodome` para criptografar textos
 
 
 ## Files
